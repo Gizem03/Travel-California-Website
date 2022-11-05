@@ -86,6 +86,10 @@ section h2 {
   width: 500px;
 }
 
+#download {
+  background-color: #fdc949;
+}
+
 .download .container {
   display: flex;
   flex-direction: column;
